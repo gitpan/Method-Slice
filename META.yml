@@ -16,10 +16,10 @@ name: Method-Slice
 provides:
   Method::Slice:
     file: lib/Method/Slice.pm
-    version: 0.01
+    version: 0.02
 requires:
   Want: 0
 resources:
   license: http://www.perlfoundation.org/artistic_license_2_0
   repository: https://github.com/damil/Method-Slice
-version: 0.01
+version: 0.02

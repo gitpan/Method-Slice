@@ -33,7 +33,7 @@
    "provides" : {
       "Method::Slice" : {
          "file" : "lib/Method/Slice.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -45,5 +45,5 @@
          "url" : "https://github.com/damil/Method-Slice"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
